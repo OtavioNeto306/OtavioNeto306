@@ -1,7 +1,7 @@
 ### Olá Sou Neto, estou aqui para contribuir com a comunidade 👋
 
 - 🔭 Atualmente estou trabalhando com Banco de Dados
-- 🌱 Estudando JS/C# 
+- 🌱 Estudando Python
 
 <div align="center">
   <a href="https://github.com/OtavioNeto306">
